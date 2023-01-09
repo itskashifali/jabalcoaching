@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jabalcoaching.iml" filepath="$PROJECT_DIR$/.idea/modules/jabalcoaching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/jabalcoaching.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/jabalcoaching.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/997215556/jabalcoaching.expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/997215556/jabalcoaching.expo-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-40481451/jabalcoaching.expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/-40481451/jabalcoaching.expo-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2137655440/jabalcoaching.expo-image-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/-2137655440/jabalcoaching.expo-image-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/933435961/jabalcoaching.expo-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/933435961/jabalcoaching.expo-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-526431654/jabalcoaching.expo-screen-orientation.iml" filepath="$PROJECT_DIR$/.idea/modules/-526431654/jabalcoaching.expo-screen-orientation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1579916852/jabalcoaching.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1579916852/jabalcoaching.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1244120009/jabalcoaching.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1244120009/jabalcoaching.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-62974483/jabalcoaching.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-62974483/jabalcoaching.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-592626799/jabalcoaching.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-592626799/jabalcoaching.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1938486280/jabalcoaching.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1938486280/jabalcoaching.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-703807525/jabalcoaching.react-native-firebase_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-703807525/jabalcoaching.react-native-firebase_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1058391086/jabalcoaching.react-native-full-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1058391086/jabalcoaching.react-native-full-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-479542994/jabalcoaching.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-479542994/jabalcoaching.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-13917253/jabalcoaching.react-native-google-cast.iml" filepath="$PROJECT_DIR$/.idea/modules/-13917253/jabalcoaching.react-native-google-cast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1180872917/jabalcoaching.react-native-nodemediaclient.iml" filepath="$PROJECT_DIR$/.idea/modules/1180872917/jabalcoaching.react-native-nodemediaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1419350584/jabalcoaching.react-native-orientation.iml" filepath="$PROJECT_DIR$/.idea/modules/1419350584/jabalcoaching.react-native-orientation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/508393847/jabalcoaching.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/508393847/jabalcoaching.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/808802350/jabalcoaching.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/808802350/jabalcoaching.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-627948009/jabalcoaching.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-627948009/jabalcoaching.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-527235345/jabalcoaching.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-527235345/jabalcoaching.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1221224186/jabalcoaching.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/1221224186/jabalcoaching.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1732733592/jabalcoaching.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1732733592/jabalcoaching.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1579140125/jabalcoaching.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/-1579140125/jabalcoaching.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1550122643/jabalcoaching.react-native-video-exoplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/1550122643/jabalcoaching.react-native-video-exoplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1268292767/jabalcoaching.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1268292767/jabalcoaching.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1876260725/jabalcoaching.react-native-youtube.iml" filepath="$PROJECT_DIR$/.idea/modules/-1876260725/jabalcoaching.react-native-youtube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/441208293/jabalcoaching.unimodules-app-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/441208293/jabalcoaching.unimodules-app-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-837830281/jabalcoaching.unimodules-barcode-scanner-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-837830281/jabalcoaching.unimodules-barcode-scanner-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/67997367/jabalcoaching.unimodules-camera-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/67997367/jabalcoaching.unimodules-camera-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/907534613/jabalcoaching.unimodules-constants-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/907534613/jabalcoaching.unimodules-constants-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1076170521/jabalcoaching.unimodules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/-1076170521/jabalcoaching.unimodules-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/258380860/jabalcoaching.unimodules-face-detector-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/258380860/jabalcoaching.unimodules-face-detector-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1267529050/jabalcoaching.unimodules-file-system-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1267529050/jabalcoaching.unimodules-file-system-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1414145311/jabalcoaching.unimodules-font-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1414145311/jabalcoaching.unimodules-font-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1918370857/jabalcoaching.unimodules-image-loader-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1918370857/jabalcoaching.unimodules-image-loader-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1449129334/jabalcoaching.unimodules-permissions-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1449129334/jabalcoaching.unimodules-permissions-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-213352721/jabalcoaching.unimodules-react-native-adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/-213352721/jabalcoaching.unimodules-react-native-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1253520319/jabalcoaching.unimodules-sensors-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1253520319/jabalcoaching.unimodules-sensors-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/626827895/jabalcoaching.unimodules-task-manager-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/626827895/jabalcoaching.unimodules-task-manager-interface.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178976720127",
+    "project_id": "jabal-coaching-835c1",
+    "storage_bucket": "jabal-coaching-835c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178976720127:android:be105cbc4122c0aed238ca",
+        "android_client_info": {
+          "package_name": "com.jabalcoaching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178976720127-nekrg9mt0erl7biqlvekct5jte2r4arq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4k1D39K9zWHdOauNa7WRNXIImKwcwkP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178976720127-nekrg9mt0erl7biqlvekct5jte2r4arq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
